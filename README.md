@@ -1,3 +1,4 @@
+<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 <h1 align="center">Hi 👋, I'm ZAKARIA EL-KHADIR</h1>
 
 <h3 align="center">A passionate frontend developer from MORROKO</h3>
