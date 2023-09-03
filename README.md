@@ -1,4 +1,4 @@
-<img alt="Coder GIF" align="center" height=350 width=500 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img alt="Coder GIF" margin-left = 50px height=350 width=500 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 <h1 align="center">Hi 👋, I'm ZAKARIA EL-KHADIR</h1>
 <img align="center" width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" />
 <h3 align="center">A passionate frontend developer from MORROKO</h3>
