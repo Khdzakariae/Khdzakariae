@@ -1,11 +1,11 @@
-<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img alt="Coder GIF" align="center" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 <h1 align="center">Hi 👋, I'm ZAKARIA EL-KHADIR</h1>
 <img align="center" width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" />
 <h3 align="center">A passionate frontend developer from MORROKO</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khdzakariae&label=Profile%20views&color=0e75b6&style=flat" alt="khdzakariae" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khdzakariae" alt="khdzakariae" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khdzakariae" alt="khdzakariae" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zakariaelkhad11" target="blank"><img src="https://img.shields.io/twitter/follow/zakariaelkhad11?logo=twitter&style=for-the-badge" alt="zakariaelkhad11" /></a> </p>
 
