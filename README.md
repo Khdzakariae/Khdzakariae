@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coder GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500" height="350" style="margin-left: 50px;" />
+  <img alt="Coder GIF" src="[https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif](https://magiccopy.xyz/assets/images/hadder.gif)" width="500" height="350" style="margin-left: 50px;" />
   <h1>Hi 👋, I'm ZAKARIAE EL-KHADIR</h1>
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
   <h3>A passionate frontend developer from MOROCCO</h3>
