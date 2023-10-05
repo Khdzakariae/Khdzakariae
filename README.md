@@ -1,4 +1,17 @@
 <div align="center">
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=Ephantuz&style=plastic&color=red&label=PROFILE+VIEWS)
+
+</div>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+ZAKARIAE+EL-KHADIR...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
 
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khdzakariae" alt="khdzakariae" /></a></p>
