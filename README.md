@@ -1,18 +1,12 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
 <div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=Ephantuz&style=plastic&color=red&label=PROFILE+VIEWS)
-
-</div>
-
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+ZAKARIAE+EL-KHADIR...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
+  <img alt="Coder GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500" height="350" style="margin-left: 50px;" />
+  <h1>Hi 👋, I'm ZAKARIA EL-KHADIR</h1>
+  <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
+  <h3>A passionate frontend developer from MOROCCO</h3>
 
   <p><img src="https://komarev.com/ghpvc/?username=khdzakariae&label=Profile%20views&color=0e75b6&style=flat" alt="khdzakariae" /></p>
+
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khdzakariae" alt="khdzakariae" /></a></p>
 
   <h3>Connect with me:</h3>
   <p>
