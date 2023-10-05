@@ -14,8 +14,6 @@
 
   <p><img src="https://komarev.com/ghpvc/?username=khdzakariae&label=Profile%20views&color=0e75b6&style=flat" alt="khdzakariae" /></p>
 
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khdzakariae" alt="khdzakariae" /></a></p>
-
   <h3>Connect with me:</h3>
   <p>
     <a href="https://twitter.com/zakariaelkhad11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariaelkhad11" height="30" width="40" /></a>
