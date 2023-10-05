@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Coder GIF" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500" height="350" style="margin-left: 50px;" />
+  <img alt="Coder GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F7zine.com%2Fnouvelles-cyberprotections-contre-les-bombes-logiques-furtives-ciblant-les-drones-protheses-et-dispositifs-medicaux-imprimes-en-3d%2F&psig=AOvVaw0AUkl2QDlKDYXEZlPBqIqJ&ust=1696588806270000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjGkPvb3oEDFQAAAAAdAAAAABBN/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500" height="350" style="margin-left: 50px;" />
   <h1>Hi 👋, I'm ZAKARIA EL-KHADIR</h1>
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
   <h3>A passionate frontend developer from MOROCCO</h3>
