@@ -1,8 +1,6 @@
 <div align="center">
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
 
-  <p><img src="https://komarev.com/ghpvc/?username=khdzakariae&label=Profile%20views&color=0e75b6&style=flat" alt="khdzakariae" /></p>
-
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khdzakariae" alt="khdzakariae" /></a></p>
 
   <h3>Connect with me:</h3>
