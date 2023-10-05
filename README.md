@@ -14,7 +14,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+ZAKARIAE+EL-KHADIR...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
 
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khdzakariae" alt="khdzakariae" /></a></p>
 
   <h3>Connect with me:</h3>
   <p>
