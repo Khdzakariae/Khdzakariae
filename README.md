@@ -1,6 +1,5 @@
 <div align="center">
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
-  <h3>A passionate frontend developer from MOROCCO</h3>
 
   <p><img src="https://komarev.com/ghpvc/?username=khdzakariae&label=Profile%20views&color=0e75b6&style=flat" alt="khdzakariae" /></p>
 
