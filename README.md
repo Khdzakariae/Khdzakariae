@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hi 👋, I'm ZAKARIA EL-KHADIR</h1>
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
   <h3>A passionate frontend developer from MOROCCO</h3>
 
