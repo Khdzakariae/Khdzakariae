@@ -10,7 +10,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+Ephantus+Mwangi...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+ZAKARIAE+EL-KHADIR...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
   </a>
 </h1>3d%2F&psig=AOvVaw0AUkl2QDlKDYXEZlPBqIqJ&ust=1696588806270000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjGkPvb3oEDFQAAAAAdAAAAABBN/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500" height="350" style="margin-left: 50px;" />
   <h1>Hi 👋, I'm ZAKARIA EL-KHADIR</h1>
