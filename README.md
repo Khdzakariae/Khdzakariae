@@ -1,5 +1,18 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
 <div align="center">
-  <img alt="Coder GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F7zine.com%2Fnouvelles-cyberprotections-contre-les-bombes-logiques-furtives-ciblant-les-drones-protheses-et-dispositifs-medicaux-imprimes-en-3d%2F&psig=AOvVaw0AUkl2QDlKDYXEZlPBqIqJ&ust=1696588806270000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjGkPvb3oEDFQAAAAAdAAAAABBN/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500" height="350" style="margin-left: 50px;" />
+
+  ![](https://komarev.com/ghpvc/?username=Ephantuz&style=plastic&color=red&label=PROFILE+VIEWS)
+
+</div>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+Ephantus+Mwangi...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
+  </a>
+</h1>3d%2F&psig=AOvVaw0AUkl2QDlKDYXEZlPBqIqJ&ust=1696588806270000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjGkPvb3oEDFQAAAAAdAAAAABBN/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="500" height="350" style="margin-left: 50px;" />
   <h1>Hi 👋, I'm ZAKARIA EL-KHADIR</h1>
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
   <h3>A passionate frontend developer from MOROCCO</h3>
