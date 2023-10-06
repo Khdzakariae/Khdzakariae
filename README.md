@@ -11,7 +11,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+ZAKARIAE+EL-KHADIR...;And+Am+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+ZAKARIAE+EL-KHADIR...;And+Im+a+Software+Engineer;Welcome+to+my+hubspace!;&center=true&size=20">
   <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" style="margin-left: 50px;" />
 
 
