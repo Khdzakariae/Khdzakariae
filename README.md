@@ -18,7 +18,7 @@
   <h3>Connect with me:</h3>
   <p>
     <a href="https://twitter.com/zakariaelkhad11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariaelkhad11" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in//zakariae-el-khadir-533aa6273" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariae el-khadir" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/zakariae-el-khadir-533aa6273" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariae el-khadir" height="30" width="40" /></a>
     <a href="https://fb.com/zakaria.elkhadire" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakaria el khadire" height="30" width="40" /></a>
     <a href="https://instagram.com/zaki_khdr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaki_khdr" height="30" width="40" /></a>
     <a href="https://discord.gg/[ziko7263](https://[discord.gg/bPbZTzCj](https://discord.gg/FJhcJu9954))" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ziko7263" height="30" width="40" /></a>
