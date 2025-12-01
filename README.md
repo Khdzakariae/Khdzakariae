@@ -1,67 +1,135 @@
 <div align="center">
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-  </div>
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Khdzakariae&style=plastic&color=red&label=PROFILE+VIEWS" />
-  </div>
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I+Am+ZAKARIAE+EL-KHADIR...;Software+Developer+%7C+1337+Student;System+Programming+Enthusiast;Welcome+to+my+hubspace!;&center=true&size=20">
-    </a>
-  </h1>
-  <img width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" />
   
-  ## 👨‍💻 About Me
+# 👋 Hello, I'm ZAKARIAE EL-KHADIR
+
+### 💻 Software Developer | System Programming Enthusiast | 1337 Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%2FC%2B%2B+Specialist;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariae-el-khadir-533aa6273)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khdzakariae)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elkhadirzakarie1337@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zakariaelkhad11)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Khdzakariae&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const zakariae = {
+    location: "Morocco 🇲🇦",
+    education: "1337 Coding School (42 Network)",
+    currentFocus: "System Programming & Full-Stack Development",
+    interests: ["Microservices Architecture", "Cloud Computing", "DevOps"],
+    languages: ["Arabic (Native)", "French", "English", "German (B1)"],
+    lookingFor: "Innovative opportunities to apply my technical skills"
+};
+```
+
+- 🎓 Currently studying at **1337 Coding School** (42 Network)
+- 💼 Experienced in **C/C++**, **JavaScript/TypeScript**, and **Full-Stack Development**
+- 🔭 Working on microservices architectures and cloud-based applications
+- 🌱 Learning advanced **DevOps practices** and **cloud technologies**
+- 👯 Open to collaboration on **open-source projects**
+- 📫 Reach me: **elkhadirzakarie1337@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
   
-  Software developer with expertise in **system programming** and **C/C++ development**. Currently studying at **1337 Coding School** (42 Network) in Morocco, seeking opportunities to apply my technical skills in innovative environments.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khdzakariae&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khdzakariae&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khdzakariae&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### 🔹 [JobFlow - Job Application Microservices Platform](https://github.com/Khdzakariae)
+Dockerized microservices platform with Google OAuth, ATS-friendly CV generator with 10 templates
+- **Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Redis, Docker
+
+### 🔹 [Learn Deutsch Quest - German Learning Platform](https://github.com/Khdzakariae)
+Serverless platform with 250+ interactive quizzes, Stripe integration, gamification
+- **Tech:** React, TypeScript, Supabase, Netlify Functions
+
+### 🔹 [Multi-Service Web Infrastructure](https://github.com/Khdzakariae)
+Docker-based infrastructure with 7+ microservices, SSL/TLS, network isolation
+- **Tech:** Docker, Nginx, WordPress, MariaDB, Redis, Alpine Linux
+
+### 🔹 [Minishell - Custom Unix Shell](https://github.com/Khdzakariae)
+Unix shell with process management, file descriptors, command parsing
+- **Tech:** C, Unix/Linux System Calls, Readline Library
+
+---
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khdzakariae&theme=tokyo-night&hide_border=true)](https://github.com/Khdzakariae)
+
+---
+
+## 💡 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
   
-  - 🔭 Working on microservices architectures and full-stack applications
-  - 🌱 Learning advanced DevOps practices and cloud technologies
-  - 💼 Open to collaboration on open-source projects
-  - 📫 Reach me at: **elkhadirzakarie1337@gmail.com**
-  
-  <h3>🌐 Connect with me:</h3>
-  <p>
-    <a href="https://linkedin.com/in/zakariae-el-khadir-533aa6273" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariae-el-khadir" height="30" width="40" /></a>
-    <a href="https://twitter.com/zakariaelkhad11" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariaelkhad11" height="30" width="40" /></a>
-    <a href="https://fb.com/zakaria.elkhadire" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakaria-elkhadire" height="30" width="40" /></a>
-    <a href="https://instagram.com/zaki_khdr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaki_khdr" height="30" width="40" /></a>
-    <a href="https://discord.gg/FJhcJu9954" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-  </p>
-  
-  <h3>🛠️ Languages and Tools:</h3>
-  <p>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /></a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a>
-  </p>
-  
-  <h3>📊 GitHub Stats:</h3>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Khdzakariae&show_icons=true&locale=en&theme=radical" alt="khdzakariae" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Khdzakariae&theme=radical" alt="khdzakariae" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khdzakariae&show_icons=true&locale=en&layout=compact&theme=radical" alt="khdzakariae" />
-  </p>
-  
+### 💬 Let's Connect and Build Something Amazing Together!
+
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+⭐️ From [Khdzakariae](https://github.com/Khdzakariae)
+
 </div>
