@@ -80,20 +80,6 @@ const zakariae = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khdzakariae&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khdzakariae&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khdzakariae&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 <table>
