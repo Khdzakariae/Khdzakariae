@@ -75,6 +75,8 @@ const zakariae = {
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -94,21 +96,60 @@ const zakariae = {
 
 ## 🏆 Featured Projects
 
-### 🔹 [JobFlow - Job Application Microservices Platform](https://github.com/Khdzakariae)
-Dockerized microservices platform with Google OAuth, ATS-friendly CV generator with 10 templates
-- **Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Redis, Docker
+<table>
+<tr>
+<td width="50%">
 
-### 🔹 [Learn Deutsch Quest - German Learning Platform](https://github.com/Khdzakariae)
-Serverless platform with 250+ interactive quizzes, Stripe integration, gamification
-- **Tech:** React, TypeScript, Supabase, Netlify Functions
+### 🚀 JobFlow
+**Job Application Microservices Platform**
 
-### 🔹 [Multi-Service Web Infrastructure](https://github.com/Khdzakariae)
-Docker-based infrastructure with 7+ microservices, SSL/TLS, network isolation
-- **Tech:** Docker, Nginx, WordPress, MariaDB, Redis, Alpine Linux
+Dockerized microservices platform with Google OAuth authentication, ATS-friendly CV generator featuring 10 professional templates
 
-### 🔹 [Minishell - Custom Unix Shell](https://github.com/Khdzakariae)
-Unix shell with process management, file descriptors, command parsing
-- **Tech:** C, Unix/Linux System Calls, Readline Library
+**Stack:** React • TypeScript • Node.js • PostgreSQL • Redis • Docker
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/Khdzakariae)
+
+</td>
+<td width="50%">
+
+### 🇩🇪 Learn Deutsch Quest
+**German Language Learning Platform**
+
+Serverless platform with 250+ interactive quizzes, premium Stripe subscriptions, and gamification features
+
+**Stack:** React • TypeScript • Supabase • Netlify Functions
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/Khdzakariae)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐚 Minishell
+**Custom Unix Shell Implementation**
+
+Built from scratch with advanced process management, file descriptors, and command parsing algorithms
+
+**Stack:** C • Unix/Linux System Calls • Readline Library
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/Khdzakariae)
+
+</td>
+<td width="50%">
+
+### 🐳 Multi-Service Infrastructure
+**Docker-Based Web Infrastructure**
+
+Complete infrastructure with 7+ microservices, SSL/TLS encryption, and network isolation
+
+**Stack:** Docker • Nginx • MariaDB • Redis • Alpine Linux
+
+[![Repo](https://img.shields.io/badge/Repo-View-blue?style=flat-square&logo=github)](https://github.com/Khdzakariae)
+
+</td>
+</tr>
+</table>
 
 ---
 
